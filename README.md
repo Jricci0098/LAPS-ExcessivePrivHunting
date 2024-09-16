@@ -20,12 +20,13 @@ Before using the script, ensure the following:
    - `ImportExcel`: To export results to Excel.
 
    You can install the modules via PowerShell with:
-   ```powershell
+   ```
    Install-Module -Name ActiveDirectory
    Install-Module -Name LAPS
-   Install-Module -Name ImportExcel```
-
-   2. **Required Permissions:**
+   Install-Module -Name ImportExcel
+   ```
+   
+2. **Required Permissions:**
    - The account running the script must have sufficient privileges to query AD objects and LAPS extended rights in Active Directory.
 
 3. **Ensure LAPS is Deployed:**
