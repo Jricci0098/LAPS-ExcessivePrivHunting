@@ -37,7 +37,7 @@ Before using the script, ensure the following:
 1. **Clone the Repository:**
 
    First, clone this GitHub repository:
-   ```git clone https://github.com/your-username/CreepCatcher-LAPS.git```
+   ```git clone https://github.com/Jricci0098/LAPS-ExcessivePrivHunting.git```
    
 2. **Run the Script:**
 
