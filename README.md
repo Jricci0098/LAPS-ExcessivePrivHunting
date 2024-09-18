@@ -1,4 +1,4 @@
-# CreepCatcher-LAPS
+# LAPS-CreepCatcher
 
 **CreepCatcher-LAPS** is a PowerShell script designed to detect Microsoft LAPS (Local Administrator Password Solution) permissions creep across Active Directory (AD) organizational units (OUs). The script helps identify privilege escalation by scanning for extended rights on OUs, checking for administrative permissions on LAPS-protected machines, and exporting the results to an Excel file for easy analysis.
 
